@@ -113,9 +113,9 @@ the validation set is 0.93 or greater. </b>
 
 My final model results were:
 
-- training set accuracy of ?
-- validation set accuracy of ?
-- test set accuracy of ?
+- training set accuracy of 100%
+- validation set accuracy of 95.1%
+- test set accuracy of 92.9%
 
 
 A lot of the modifications done were random trial and error but some of the more
